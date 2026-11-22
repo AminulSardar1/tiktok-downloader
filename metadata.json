@@ -1,0 +1,6 @@
+{
+  "name": "TikFetch",
+  "description": "Extract TikTok HD/SD video, MP3 audio, and engagement metrics with a live JSON API endpoint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
